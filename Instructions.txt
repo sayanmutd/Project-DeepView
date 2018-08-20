@@ -1,0 +1,28 @@
+#### deepView Sandbox Demo ####
+Windows Release 0.0.1 
+
+## Dependencies 
+Before running the GUI.py file, you must download & install the following libraries:
+  a) PIL(Python Imaging Library) 
+  b) scikit Learn 
+  c) Pandas
+  d) Pickle 
+Also Note: All scripts require Python 3 to be executed. 
+
+## System Requirements 
+Please Note: This release is ONLY for Windows OS. 
+We recommend the following system requirements for smooth operation:
+1) Minimum 6 GB of free RAM 
+2) Nvidia GTX or higher level - discrete Graphics Card (CUDA enabled) 
+
+## Running Instructions: 
+
+﻿1. Double click on `models/getModels.bat` to download the required body, face, and hand models.
+
+2.Run the GUI.py file to run the deepView Sandbox Demo (Python 3) 
+
+3.Upload any suitable jpeg image of resolution greater than 640x480. Once uploaded, the test shall begin automatically.
+    
+
+## Please write to rishav_201500204@smit.smu.edu.in for immediate resolution of issues or you can pull a issue on GitHub. 
+
