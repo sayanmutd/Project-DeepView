@@ -1,5 +1,5 @@
 # deepView (sandbox demo v0.0.1)
-## -harnessing the preventive power of cctv networks 
+### *-harnessing the preventive power of cctv networks* 
 
 ![](https://raw.githubusercontent.com/RishavR/deepView/master/Images/project_Deep_View.png)
 
