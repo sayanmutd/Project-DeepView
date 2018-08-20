@@ -10,7 +10,7 @@ Project deepView uses localized CNN, Part Affinity Field based sekeleton generat
 please check out our [releases section](https://github.com/rishavr/deepview/releases) to download the v0.0.1 release of the demo. 
 
 ## Full source: 
-entire source is present in the release itself apart from the classifier and deeppose code. full code to be uploaded soon in this repo. 
+entire source is present in the release itself apart from the classifier and OpenPose code. full code to be uploaded soon in this repo. 
 
 ## Dependencies: 
 
