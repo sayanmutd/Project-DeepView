@@ -1,5 +1,5 @@
 # deepview (sandbox demo v0.0.1)
-##- harnessing the preventive power of cctv networks 
+## -harnessing the preventive power of cctv networks 
 
 ## latest release: 
 please check out  [https://github.com/rishavr/deepview/releases](release section) to download the v0.0.1 release of the demo. 
