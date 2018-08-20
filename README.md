@@ -1,8 +1,9 @@
-# deepView (sandbox demo v0.0.1)
-### *-harnessing the preventive power of cctv networks* 
 
 ![](https://raw.githubusercontent.com/RishavR/deepView/master/Images/project_Deep_View.png)
 
+
+# deepView (sandbox demo v0.0.1)
+### *-harnessing the preventive power of cctv networks* 
 
 Project deepView uses localized CNN, Part Affinity Field based sekeleton generation and casule CNN (ongoing) to **classify & label real-time CCTV footage** as 'Violent' or 'Non-Violent' - acting as an interface that can **detect crime in real-time** and alert law enforcement authorities. 
 
