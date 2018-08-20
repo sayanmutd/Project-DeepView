@@ -8,21 +8,21 @@
 Project deepView uses localized CNN, Part Affinity Field based sekeleton generation and casule CNN (ongoing) to **classify & label real-time CCTV footage** as 'Violent' or 'Non-Violent' - acting as an interface that can **detect crime in real-time** and alert law enforcement authorities. 
 
 ## Latest release: 
-please check out our [releases section](https://github.com/rishavr/deepview/releases) to download the v0.0.1 release of the demo. 
+Please check out our [releases section](https://github.com/rishavr/deepview/releases) to download the v0.0.1 release of the demo. 
 
 ## Full source: 
-entire source is present in the release itself apart from the classifier and OpenPose code. full code to be uploaded soon in this repo. 
+Entire source is present in this repo.
 
 ## Dependencies: 
 
-the following dependencies are necessary for the demo to work - 
+The following dependencies are necessary for the demo to work - 
 1) python3 
 2) scikit learn 
 3) pandas 
 4) pickle 
 5) g++ 
 
-we also recommend downloading the full anaconda library as it contains all the above libraries. 
+We also recommend downloading the full anaconda library as it contains all the above libraries. 
 
 ## System Requirements: 
 
@@ -38,7 +38,7 @@ we also recommend downloading the full anaconda library as it contains all the a
 ```
 ![Graphical User Interface Demo](https://raw.githubusercontent.com/RishavR/deepView/master/Images/rsz_1screenshot_from_2018-08-19_19-21-31.png)
 ## Troubleshoot Help: 
-email: rishav_201500204@smit.smu.edu.in
+Email: rishav_201500204@smit.smu.edu.in
 
 ## References: 
 ```
