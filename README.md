@@ -33,7 +33,7 @@ We also recommend downloading the full anaconda library as it contains all the a
 
 ## How To Run: 
 ```
-1) run models/models.bat 
+1) run models/getModels.bat 
 2) run gui.py 
 ```
 ![Graphical User Interface Demo](https://raw.githubusercontent.com/RishavR/deepView/master/Images/rsz_1screenshot_from_2018-08-19_19-21-31.png)
