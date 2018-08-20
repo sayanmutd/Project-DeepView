@@ -7,7 +7,7 @@
 Project deepView uses localized CNN, Part Affinity Field based sekeleton generation and casule CNN (ongoing) to **classify & label real-time CCTV footage** as 'Violent' or 'Non-Violent' - acting as an interface that can **detect crime in real-time** and alert law enforcement authorities. 
 
 ## Latest release: 
-please check out  [https://github.com/rishavr/deepview/releases](release section) to download the v0.0.1 release of the demo. 
+please check out our [releases section](https://github.com/rishavr/deepview/releases) to download the v0.0.1 release of the demo. 
 
 ## Full source: 
 entire source is present in the release itself apart from the classifier and deeppose code. full code to be uploaded soon in this repo. 
